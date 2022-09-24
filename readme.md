@@ -1,4 +1,4 @@
-# LoL Human Case Rest API WA MD Bot
+# PSATIR
 
 # Installation
 
@@ -29,7 +29,7 @@
 ## Cloning this repo
 
 ```cmd
-> git clone https://github.com/LoL-Human/Case-WA-MD.git
+> git clone https://github.com/Bx101SXR/wa-bot-md.git
 > cd Case-WA-MD
 ```
 

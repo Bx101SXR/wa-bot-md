@@ -30,7 +30,7 @@
 
 ```cmd
 > git clone https://github.com/Bx101SXR/wa-bot-md.git
-> cd Case-WA-MD
+> cd wa-bot-md
 ```
 
 ## Install the package
@@ -46,11 +46,12 @@
 
 ```js
 {
-    "botName": "LoL Human Bot", // name of bot
-    "ownerName": "LoL Human", // owner name, you should add your name
-    "ownerNumber": ["62895418200111@s.whatsapp.net"], // owner number, you should add your number
-    "sessionName": "lolhuman", // will be lolhuman-session.json
-    "apikey": "" // get apikey on my website (https://api.lolhuman.xyz/)
+    "botName": "PSATIR Bot", // name of bot
+    "ownerName": "LOLI", // owner name, you should add your name
+    "ownerNumber": ["628815887040@s.whatsapp.net"], // owner number, you should add your number
+    "sessionName": "pedofil", // will be pedofil-session.json
+    "apikey": "" // get apikey on  website https://api.lolhuman.xyz/
+    "vhtearkey": "" //  get apikey on website https://vhtear.com/index?#api-documentation
 }
 ```
 
@@ -67,4 +68,5 @@
 # Thanks To
 
 -   [`Baileys`](https://github.com/adiwajshing/Baileys)
--   [`Faiz Bastomi`](https://github.com/FaizBastomi/)
+-   [`SENSEI ARIS`](https://github.com/aris-senpai/)
+-   [`XFAR`](https://github.com/xfar05/)
